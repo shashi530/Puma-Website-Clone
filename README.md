@@ -28,3 +28,12 @@
 <p>Manjeet Singh</p>
 <p>Shashikant Patil</p>
 <p>Arbaz Hussain</p>
+
+
+# Key learnings
+
+- How to deal with APIs.
+- How manage Code  Effeciently.
+- How Design  a Full Website from scratch.
+
+<h3>It's a great project for me to  learn new things  and make something from scratch.</h3>
